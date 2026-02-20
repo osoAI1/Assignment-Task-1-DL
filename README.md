@@ -1,4 +1,4 @@
-*this code use for (Image Classification --> Flowers102 = 102 class) with ResNet50 and make Fine-tuning
+**This code use for (Image Classification --> Flowers102 = 102 class) with ResNet50 and make Fine-tuning**
 
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/e990f584-00a2-4b84-b29e-5d861ef2724a" />
 
